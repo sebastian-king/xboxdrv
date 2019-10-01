@@ -91,6 +91,7 @@ XPadDevice xpad_devices[] = {
   { GAMEPAD_XBOX360,          0x0e6f, 0x0413, "Afterglow AX.1 Gamepad for Xbox 360" },
   { GAMEPAD_XBOX360,          0x0e6f, 0x0213, "Afterglow Gamepad for Xbox 360" },
   { GAMEPAD_XBOX360,          0x0e6f, 0x0401, "Logic3 Controller" },
+  { GAMEPAD_XBOX360,          0x0e6f, 0x0431, "Logic3 Controller" },
   { GAMEPAD_XBOX360,          0x0e6f, 0x0301, "Logic3 Controller" },
   { GAMEPAD_XBOX360,          0x12ab, 0x0301, "PDP AFTERGLOW AX.1" },
   { GAMEPAD_XBOX360_GUITAR,   0x1430, 0x4748, "RedOctane Guitar Hero X-plorer" },
